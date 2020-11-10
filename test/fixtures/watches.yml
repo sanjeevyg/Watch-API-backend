@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  brand: MyString
+  image: MyString
+  interchangeable_strap: MyString
+  dial_color: MyString
+  case_material: MyString
+  price: 1
+
+two:
+  brand: MyString
+  image: MyString
+  interchangeable_strap: MyString
+  dial_color: MyString
+  case_material: MyString
+  price: 1
